@@ -1,0 +1,270 @@
+@media (min-width: 300px) and (max-width: 600px) {
+  .avatar {
+    display: none;
+  }
+
+  /* BANNER */
+  .img-banner {
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+  }
+
+  .banner-text {
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%, -50%);
+  }
+  /* NAVIGATION */
+  .container {
+    display: block;
+    padding: 10px 0;
+  }
+
+  .nav-bar {
+    text-align: left;
+    margin-bottom: 30px;
+  }
+
+  .nav-info {
+    border: none;
+  }
+
+  /* TARGET */
+  .container1 {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  /* JOB INFO */
+
+  #job-info {
+    margin-top: 360px;
+  }
+  .container2 {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  /* EXPENSIVE */
+  .exp {
+    height: auto;
+    margin: 0 70px;
+    padding: 25px;
+  }
+
+  /* EDUCATION */
+
+  .education {
+    height: 490px;
+    margin: 10px 70px;
+    padding: 25px;
+  }
+
+  .edu-title {
+    justify-content: left;
+  }
+
+  /* ACTIVITIVE */
+
+  .activity {
+    height: auto;
+    margin: 10px 70px;
+    padding: 25px;
+  }
+
+  .act-title {
+    justify-content: left;
+  }
+
+  .hoatdong {
+    margin-top: 0;
+  }
+
+  /* FAVORITE */
+
+  .favorite {
+    height: 270px;
+    margin: 10px 70px;
+    padding: 25px;
+  }
+
+  .fav-item {
+    margin-top: 50px;
+  }
+
+  /* LANGUAGE */
+
+  .laguage {
+    height: 320px;
+    margin: 10px 70px;
+    padding: 25px;
+  }
+
+  /* SKILLS */
+
+  .kynang {
+    height: 450px;
+    margin: 10px 70px;
+    padding: 25px;
+  }
+
+  /*CHỨNG CHỈ-GIẢI THƯỞNG */
+
+  .chungchi {
+    padding: 0;
+    width: 100%;
+    height: 980px;
+  }
+
+  .container-chungchi {
+    display: block;
+    text-align: left;
+  }
+
+  .img-chungchi {
+    margin-bottom: 15px;
+  }
+
+  .web1,
+  .java1,
+  .database1 {
+    display: block;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #e88215;
+    padding-bottom: 20px;
+  }
+
+  .java1 {
+    border-left: none;
+    padding-left: 0;
+  }
+
+  .database1 {
+    border-top: none;
+    padding-top: 0;
+    width: 100%;
+  }
+
+  /* DỰ ÁN */
+
+  .container-duan {
+    display: block;
+  }
+
+  .img-duan {
+    width: 100%;
+  }
+
+  .duan-title {
+    width: 100%;
+  }
+
+  .info-duan1 {
+    width: 100%;
+  }
+
+  .du-an-1,
+  .du-an-2,
+  .du-an-3 {
+    height: 440px;
+  }
+  .du-an-1,
+  .du-an-2 {
+    margin-bottom: 30px;
+  }
+
+  td {
+    font-size: 12px;
+  }
+
+  /* FOOTER */
+
+  #footer {
+    zoom: 2;
+  }
+
+  ul span {
+    display: none;
+  }
+
+  .container-footer ul {
+    text-align: center;
+  }
+
+  .section-target,
+  .jobinfo,
+  .chungchi,
+  .duan {
+    width: 100%;
+  }
+
+  /* -----------------------NÂNG CAO----------------------- */
+
+  main {
+    display: block;
+  }
+
+  /* SECTION GOALS */
+
+  .goal-1 {
+    display: inline-block;
+  }
+
+  .logo-goal {
+    text-align: center;
+  }
+
+  /* SECTION SCOPES */
+
+  .content-scopes {
+    display: block;
+  }
+
+  .content-scopes h4 {
+    margin-bottom: 20px;
+  }
+
+  /* SECTION TEAM */
+
+  .name-1,
+  .name-2,
+  .name-3,
+  .name-4 {
+    display: block;
+    position: relative;
+    margin-bottom: 50px;
+  }
+
+  .logo-team {
+    position: absolute;
+    top: -15px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .profile-1,
+  .profile-2,
+  .profile-3,
+  .profile-4 {
+    margin-top: 50px;
+    margin-left: 20px;
+  }
+
+  /* SECTION PRIMARY */
+
+  .primary-1,
+  .primary-2 {
+    display: block;
+    margin: 30px;
+  }
+
+  .primary-logo {
+    text-align: center;
+  }
+}
