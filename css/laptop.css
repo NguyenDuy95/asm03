@@ -118,7 +118,7 @@ body {
 
 .logo a:link,
 .logo a:visited {
-  cursor: grab;
+  cursor: pointer;
 }
 
 /* JOB-INFO */
@@ -656,6 +656,12 @@ td {
   color: #32d0ec;
   margin-bottom: 50px;
   zoom: 1.4;
+}
+
+.container-footer a:hover,
+.container-footer a:active {
+  color: #e88215;
+  transition: all 0.3s;
 }
 
 /* AVATAR */
