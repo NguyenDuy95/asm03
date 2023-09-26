@@ -12,7 +12,7 @@ body {
 
 .img-banner {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(/images/banner.jpg);
+    url(images/banner.jpg);
   width: 100hv;
   height: 400px;
   background-size: cover;
