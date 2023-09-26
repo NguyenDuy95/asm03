@@ -197,6 +197,13 @@
     text-align: center;
   }
 
+  .fb:hover,
+  .lin:hover,
+  .gb:hover {
+    color: #e88215;
+    transition: all 0.3s;
+  }
+
   .section-target,
   .jobinfo,
   .chungchi,
